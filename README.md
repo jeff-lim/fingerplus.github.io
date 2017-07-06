@@ -1,2 +1,3 @@
 # fingerplus.github.io
-개발팀 블로그
+
+FingerPlus 개발 블로그
