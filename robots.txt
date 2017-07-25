@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fingerplus.github.io/sitemap.xml
