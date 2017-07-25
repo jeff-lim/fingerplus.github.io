@@ -2,9 +2,8 @@
 layout: post
 title: "개발자 채용합니다."
 date: 2017-07-10 13:32:31 +0900
-categories:
-  - notice
-  - careers
+categories: [notice, careers]
+keywords: FingerPlus, 핑거플러스, 채용
 ---
 
 핑거플러스에서 열정적이고 창의적으로 즐겁게 함께 일할 사람을 찾고 있습니다. 핑거플러스는 규모는 작지만 빠르게 성장하고 있는 회사입니다. 지상파 방송사 SBS와 함께 CONAD라는 합작투자회사를 세웠고 동영상 기반 AD Network 서비스인 `VIDEOtag(비디오태그)` 를 함께 개발, 서비스하고 있는 신생 스타트업 회사입니다.
