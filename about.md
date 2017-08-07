@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-***FingerPlus*** 는 Video를 포함한 MultiMedia에서 제품/인물 정보를 포함한 문맥(Context) 정보를 추출하는 기술을 개발합니다. 또한 이를 이용해 AD Network/Exchange 와 상호작용할 수 있는 기술/서비스를 만듭니다.
+[***FingerPlus***](https://www.finger-plus.com/) 는 Video를 포함한 MultiMedia에서 제품/인물 정보를 포함한 문맥(Context) 정보를 추출하는 기술을 개발합니다. 또한 이를 이용해 AD Network/Exchange 와 상호작용할 수 있는 기술/서비스를 만듭니다.
 
 # VIDEOtag
 
